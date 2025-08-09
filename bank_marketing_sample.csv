@@ -1,0 +1,11 @@
+age,job,marital,education,balance,housing,loan,y
+30,admin.,married,university.degree,1787,yes,no,no
+33,services,married,high.school,4789,yes,yes,no
+35,management,single,university.degree,1350,yes,no,yes
+30,blue-collar,married,basic.9y,1476,yes,yes,no
+59,admin.,divorced,university.degree,0,yes,no,yes
+35,management,single,high.school,747,no,no,yes
+36,technician,married,professional.course,307,yes,no,no
+39,services,married,high.school,147,yes,no,no
+41,entrepreneur,married,basic.9y,221,yes,no,no
+43,blue-collar,married,basic.4y,-88,yes,yes,no
